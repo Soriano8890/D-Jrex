@@ -1,5 +1,5 @@
-# gban-D-Jrex
-# Thanks for  using my bot D-Jrex
+# gban-Haki
+# Thanks for  using my bot Haki
 # 👋 Hi, I’m @Soriano
 # 👀 I’m interested in ...
 # 🌱 I’m currently learning ...
