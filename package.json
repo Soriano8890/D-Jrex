@@ -1,8 +1,8 @@
 {
-    "name": "MiraiBypassD-Jrex",
+    "name": "MiraiBypassHaki",
     "version": "1.2.14",
     "description": "A simple Facebook Messenger Bot made by me Soriano.",
-    "main": "Jrex.js",
+    "main": "Haki.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/D-Jukie/miraiv2.git"
     },
-    "author": "D-Jrex",
+    "author": "Haki",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
